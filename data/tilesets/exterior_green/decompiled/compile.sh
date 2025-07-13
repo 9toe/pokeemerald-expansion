@@ -1,1 +1,0 @@
-porytiles compile-primary -Wall -tiles-output-pal=true-color -tiles-primary-override=640 -metatiles-primary-override=640 -pals-primary-override=7 -o .. . ../../../../../include/constants/metatile_behaviors.h
